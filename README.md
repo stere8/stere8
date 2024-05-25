@@ -1,4 +1,4 @@
-*👋 Hi, I'm @stere8
+*👋 Hi, 
 
 *💻 .NET Developer with 2+ years of experience building scalable backend applications.
 
